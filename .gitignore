@@ -1,3 +1,10 @@
+.DS_Store
 node_modules
 *.log
-data/*
+*.zip
+.cache
+.vscode
+/public
+/server
+/common
+/data
